@@ -1,8 +1,11 @@
+streamlit
 mediapipe
 opencv-python
 numpy
+pandas
 tensorflow
 keras
 scikit-learn
 matplotlib
 jupyter
+streamlit-webrtc
