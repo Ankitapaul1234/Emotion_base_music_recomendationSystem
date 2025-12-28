@@ -94,7 +94,7 @@ Emotion_Base_Music_Recomendation/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Ankitapaul1234/Emotion_Base_Music_Recomendation.git
+git clone https://github.com/Ankitapaul1234/Emotion_base_music_recomendationSystem.git
 cd Emotion_Base_Music_Recomendation
 ```
 
